@@ -21,6 +21,6 @@
 
 1. Add the Framework Package (*.framework) to the Frameworks, Libraries ... 
    section.
-2. Setup the location of the framework folder in the Framework Search Path 
+2. Set up the location of the framework folder in the Framework Search Path 
    setting. (The folder that contains the framework folder)
 3. Use the framework-code via import import \<library-name\>.
