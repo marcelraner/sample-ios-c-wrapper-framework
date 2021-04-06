@@ -1,0 +1,3 @@
+[submodule "submodules/sample-mymath-library"]
+	path = submodules/sample-mymath-library
+	url = https://github.com/marcelraner/sample-mymath-library.git
