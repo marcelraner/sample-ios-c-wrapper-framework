@@ -1,0 +1,10 @@
+framework module MyMathFramework {
+   umbrella header "MyMathFramework.h"
+   export *
+   module * { export * }
+   explicit module MyMathFramework_Private {
+      header "mymath.h"
+      link "libmymath.a"
+      export *
+   }
+}

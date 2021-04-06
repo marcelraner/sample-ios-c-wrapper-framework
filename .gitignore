@@ -1,0 +1,7 @@
+.DS_Store
+/build
+/libmymath/headers/mymath.h
+/libmymath/ios-arm64/libmymath.a
+/libmymath/ios-x86_64-simulator/libmymath.a
+/libmymath/ios-universal/libmymath.a
+/Frameworks
